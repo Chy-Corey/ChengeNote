@@ -1,0 +1,1 @@
+step从3开始，并且很多图像没显示的，在terminal那里，最后面加一个 --samples_per_plugin=images=1000
